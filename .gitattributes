@@ -1,0 +1,4 @@
+*.ly linguist-language=LilyPond
+*.ily linguist-language=LilyPond
+docs/** linguist-documentation
+Makefile linguist-detectable=false
