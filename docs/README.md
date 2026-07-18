@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/maestro-logo.png" alt="Maestro logo - a gold conductor's baton tracing a musical gesture" width="320">
+</p>
+
 # Maestro
 
 Maestro is a film-scoring toolkit written primarily in LilyPond and its embedded Scheme language. It treats scenes, character motifs, transitions, and timestamped hit points as native musical structures.
